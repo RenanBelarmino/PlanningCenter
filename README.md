@@ -37,12 +37,13 @@ pip install -r requirements.txt
 
 Crie um arquivo .env no diretório do projeto e adicione suas credenciais:
 
+```bash
 APP_ID=seu_app_id
 SECRET_KEY=sua_secret_key
 
 
 
-
+```bash
 seu-diretorio/
 │
 ├── main.py         # Script principal que busca e processa eventos
